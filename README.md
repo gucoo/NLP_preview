@@ -1,5 +1,5 @@
 # NLP_preview
 
-Read and search some cbasic understanding of NLP
+Read and searched some basic understanding of NLP
 
 https://semantria-docs.lexalytics.com/docs/tokenization-and-pos-tagging
